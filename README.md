@@ -1,7 +1,7 @@
 # Metadata-Extraction-using-ExifTool-log2timeline-and-Hidden-Data-Search-using-Steganography-Tools
 ## AIM:
 To extract metadata, perform timeline analysis, and search for hidden data using forensic tools like ExifTool, log2timeline, and steganography detection tools.
-
+ 
 ## DESIGN STEPS:
 ### Step 1:
 Use exiftool to extract metadata from files such as images, documents, and videos.
